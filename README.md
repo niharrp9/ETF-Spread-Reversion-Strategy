@@ -1,6 +1,6 @@
 # ETF Spread-Reversion Strategy
 
-This repository houses the Python code for a spread-reversion trading strategy tailored to ETF pairs. The strategy identifies and capitalizes on the disparity in M-day returns, going long on the undervalued ETF and shorting the overvalued counterpart. Position sizes are dynamically adjusted daily based on the median dollar volume to ensure capital efficiency.
+This repository houses the Python code for a spread-reversion trading strategy tailored to ETF pairs. The strategy identifies and capitalizes on the spread in M-day returns of the ETF Pairs, going long on the undervalued ETF and shorting the overvalued counterpart when the spread is to be bought and vice versa. Position sizes are dynamically adjusted daily based on the median dollar volume to ensure capital efficiency.
 
 ## Features
 - **Data Analysis**: Involves processing historical split- and dividend-adjusted closing prices and daily Fama-French factor returns from December 2, 2021, to November 15, 2023.
