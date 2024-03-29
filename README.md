@@ -21,10 +21,6 @@ Feel free to explore the strategy, test it with your own data, or contribute to 
 Contributions, issues, and feature requests are welcome. To contribute, simply fork the repository, create your feature branch, commit your changes, and open a pull request.
 
 ## Contact
-For any questions or discussions regarding the strategy, reach out through the [Discussions](#discussions) tab or contact me directly via my [email](mailto:pandanihar1996@gmail.com).
+For any questions or discussions regarding the strategy, contact me directly via my [email](mailto:pandanihar1996@gmail.com).
 
-<!-- Replace with actual link to the project HTML page when available -->
-[Project HTML]: # (Link to the visualization section in your repository)
 
-<!-- Replace with actual link to the Discussions page when available -->
-[Discussions]: # (Link to the discussions page in your repository)
