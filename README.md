@@ -25,4 +25,4 @@ For any questions or discussions regarding the strategy, reach out through the [
 
 [Project HTML]: # (Link to the visualization section in your repository)
 [Discussions]: # (Link to the discussions page in your repository)
-[email]: # (pandanihar1996@gmail.com)
+[email]: # (mailto:pandanihar1996@gmail.com)
