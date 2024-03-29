@@ -15,7 +15,7 @@ This repository houses the Python code for a spread-reversion trading strategy t
 The repository provides a comprehensive overview of the strategy's mechanics and its performance implications, offering a resource for those interested in quantitative finance and trading algorithms.
 
 ## Usage
-Feel free to explore the strategy, test it with your own data, or contribute to its improvement. For a detailed explanation of the strategy and its outcomes, please refer to the [Project HTML] section.
+Feel free to explore the strategy, test it with your own data, or contribute to its improvement. For a detailed explanation of the strategy and its outcomes, please refer to the jupyter notebook of the project.
 
 ## Contributions
 Contributions, issues, and feature requests are welcome. To contribute, simply fork the repository, create your feature branch, commit your changes, and open a pull request.
