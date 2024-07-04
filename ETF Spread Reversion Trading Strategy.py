@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Assignment 2: Simple Spread Trading
+# # ETF Spread Reversion Trading
 
 # # 1. Introduction:
 
